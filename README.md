@@ -86,8 +86,8 @@ Os testes foram executados manualmente na aplicação disponibilizada em https:/
 Durante a execução foram registradas evidências de cada cenário testado.
 
  **Evidência dos testes**  
-![tenor (1)](https://github.com/user-attachments/assets/4a19d7f6-10a5-4f74-bf7a-f60866a8b927)
 
+![tenor (2)](https://github.com/user-attachments/assets/c602136a-02e8-47e1-b150-c3d0e73694c0)
 
 ---
 
